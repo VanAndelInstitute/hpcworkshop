@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "High Level overview Overview of architecture "
-permalink: /hpcworkshop/1_archtecture
+permalink: /hpcworkshop/docs/1_arch
 ---
 
 - High Level overview Overview of architecture (brief)
