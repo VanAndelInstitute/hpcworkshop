@@ -1,6 +1,6 @@
 layout: page
 title: "High Level overview Overview of architecture "
-permalink: /URL-PATH
+permalink: /hpcworkshop/1_archtecture
 
 - High Level overview Overview of architecture (brief)
 - Headnodes
